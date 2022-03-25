@@ -12,7 +12,7 @@
                 </div>
 
                 <div class="mb-4">
-                    <h1 class="font-serif text-3xl font-bold">Create Product</h1>
+                    <h1 class="font-serif text-3xl font-bold">Edit Product</h1>
                 </div>
 
                 <div class="w-full px-6 py-4 bg-white rounded shadow-md ring-1 ring-gray-900/10">
